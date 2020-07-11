@@ -1,2 +1,9 @@
-![banner](https://i.imgur.com/zA3PIu1.png)
-<p align="center"><strong>캡틴 조아</strong></p>
+<div align="center">
+<p>
+    <img src="https://i.imgur.com/OIXca2p.png">
+</p>
+<h1>캡틴 조아</h1>
+
+Student | C#
+
+</div>
