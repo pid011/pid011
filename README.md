@@ -9,7 +9,7 @@
 ## Job
 - 👨‍💼📚 Student
 
-## Favorit language
+## Preferred languages
 - C#
 
 ## Links
