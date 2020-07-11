@@ -14,7 +14,7 @@
 
 ## Links
 - [Twitter](https://twitter.com/newsepiz)
-- [Blog(Korean)](https://blog.naver.com/pid011
+- [Blog](https://blog.naver.com/pid011
 
 ## Contact
 - [Mail](deet1022@gmail.com)
