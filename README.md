@@ -17,4 +17,4 @@
 - [Blog (Korean)](https://blog.naver.com/pid011)
 
 ## Contact
-- [Mail](deet1022@gmail.com)
+<a href="mailto:deet1022@gmail.com">Email</a>
