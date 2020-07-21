@@ -11,10 +11,3 @@
 
 ## Preferred languages
 - C#
-
-## Links
-- [Twitter](https://twitter.com/newsepiz)
-- [Blog (Korean)](https://blog.naver.com/pid011)
-
-## Contact
-<a href="mailto:deet1022@gmail.com">Email</a>
